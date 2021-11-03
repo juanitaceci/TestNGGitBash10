@@ -4,4 +4,10 @@ Git class 04:
 Task 1:
 Track the project in IJ using git
 
-Head-->
+Head--> indicates the commits that is currently present in our working directory!
+
+1. Create a new repo on github
+2. Do git  git remove remove origin to remove the previous connection
+3. Connect your local repo to the new repo on github that you created using git
+remote add origin URL
+
