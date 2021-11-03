@@ -1,4 +1,4 @@
-
+Batch10 notes are not ready
 
 Git class 04:
 Task 1:
@@ -10,4 +10,23 @@ Head--> indicates the commits that is currently present in our working directory
 2. Do git  git remove remove origin to remove the previous connection
 3. Connect your local repo to the new repo on github that you created using git
 remote add origin URL
+
+STEPS:
+git init
+git add .
+git commit -m "first commit"
+git remote add origin THE URLOFYOURREPO
+git branch -M main
+git push -u origin main
+
+Origin/main in the terminal represents the point up unti which your remote
+repo is synced with the local one
+
+// "git fetch" and "git pull":
+
+
+from github copy repository
+create a folder in desktop & open folder in computer explorer
+open in git Bash here
+from git Bash "git clone https:repoURL"
 
